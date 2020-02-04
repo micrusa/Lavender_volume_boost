@@ -1,6 +1,6 @@
 id=lavenderboost
 name=Lavender Volume Booster 
-version=v1
-versionCode=1
+version=v2
+versionCode=20
 author=micrusa
-description=Boost headphones, mic and earpiece volume
+description=Boost speaker, headphones, mic and earpiece volume
