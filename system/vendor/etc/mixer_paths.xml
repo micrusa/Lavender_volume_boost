@@ -348,12 +348,12 @@
     <ctl name="SpkrRight WSA PA Gain" value="G_0_DB" />
     <ctl name="SpkrLeft WSA PA Mute" value="1" />
     <ctl name="SpkrRight WSA PA Mute" value="1" />
-    <ctl name="EAR SPKR PA Gain" value="G_6_DB" />
+    <ctl name="EAR SPKR PA Gain" value="G_8_DB" />
 
     <!-- Volume controls -->
     <ctl name="HPHL Volume" value="15" />
     <ctl name="HPHR Volume" value="15" />
-    <ctl name="EAR PA Gain" value="POS_6_DB" />
+    <ctl name="EAR PA Gain" value="POS_8_DB" />
     <ctl name="EAR PA Boost" value="ENABLE" />
 
     <ctl name="RX1 Digital Volume" value="90" />
