@@ -17,7 +17,7 @@ It should work on any rom
 - OxygenOS BT mic fix
 - NLSound
 - Any mod that modifies mixer_paths.xml
-- Audio Modification Library (It works but you sometimes need to reinstall all audio mods)
+- Audio Modification Library (It works but in some roms you need to reinstall all audio mods)
 
 ## Changelog
 ### V3
